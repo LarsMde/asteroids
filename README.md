@@ -1,1 +1,2 @@
-# Asteroids ganme
+# Asteroids game
+
